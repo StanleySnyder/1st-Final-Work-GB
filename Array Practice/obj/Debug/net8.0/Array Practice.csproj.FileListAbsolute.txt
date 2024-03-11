@@ -1,0 +1,14 @@
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\bin\Debug\net8.0\Array Practice.exe
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\bin\Debug\net8.0\Array Practice.deps.json
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\bin\Debug\net8.0\Array Practice.runtimeconfig.json
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\bin\Debug\net8.0\Array Practice.dll
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\bin\Debug\net8.0\Array Practice.pdb
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.AssemblyInfoInputs.cache
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.AssemblyInfo.cs
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.dll
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\refint\Array Practice.dll
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.pdb
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\Array Practice.genruntimeconfig.cache
+C:\Users\Ilya\Desktop\Final Work for 1st part\Array Practice\obj\Debug\net8.0\ref\Array Practice.dll
